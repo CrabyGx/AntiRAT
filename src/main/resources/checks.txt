@@ -1,0 +1,18 @@
+addEmbed
+func_148254_d
+func_111286_b
+discord.com/api/webhooks
+launcher_profiles.json
+media.guilded.gg/webhooks/
+checkip.amazonaws
+Branchlock Demo
+api.anonfiles.com
+users/@me/billing/subscriptions
+haveibeenpwned.com
+\\discord\\Local Storage\\leveldb
+\\Google\\Chrome\\User Data\\Default
+\\Opera Software\\Opera Stable
+herokuapp.com
+accounts.json
+microsoft_accounts.json
+discord/localstorage/leveldb
